@@ -1,0 +1,293 @@
+.login_btn button {
+  border: 1.5px solid #D2D2D9;
+  box-sizing: border-box;
+  box-shadow: 0px 51px 53px rgb(91 105 132 / 13%), 0px 16.1454px 11.8382px rgb(91 105 132 / 8%), 0px 6.90592px 3.52455px rgb(91 105 132 / 5%);
+  border-radius: 7px;
+  padding: 7px 45px;
+  font-weight: 500;
+}
+
+.page-width {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding:0 30px;
+}
+
+.header {
+  background: #F6F6F6;
+  border-bottom: 1px solid #D2D2D9;
+  padding: 0px 0;
+}
+
+.header a.navbar-brand {
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.top_box {
+    display: flex;
+    justify-content: space-between;
+    background: #FFFFFF;
+    border: 1px solid #D2D2D9;
+    box-sizing: border-box;
+    box-shadow: 0px 80px 80px rgb(91 105 132 / 7%), 0px 33.4221px 33.4221px rgb(91 105 132 / 5%), 0px 17.869px 17.869px rgb(91 105 132 / 4%), 0px 10.0172px 10.0172px rgb(91 105 132 / 4%), 0px 5.32008px 5.32008px rgb(91 105 132 / 3%), 0px 2.21381px 2.21381px rgb(91 105 132 / 2%);
+    border-radius: 26px;
+    padding: 31px 70px;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.top_box1 h2 {
+  font-size: 26px;
+  margin: 0;
+}
+
+.top_box1 p {
+  font-size: 18px;
+  margin: 0;
+}
+
+.top_box1 {
+  display: flex;
+}
+
+.logo {
+  width: 117px;
+  position: relative;
+  top: 56px;
+}
+
+.logo img{
+width:100%;
+max-width:100%;
+}
+
+.banner-top {
+  padding-top: 44px;
+}
+.top_box1 {
+  display: flex;
+  align-items: center;
+}
+
+.top_box1 img {
+  width: 52px;
+  position: relative;
+  top: -8px;
+  margin-right: 6px;
+}
+
+.main-banner iframe {
+  width: 100%;
+  border: 2px solid #D2D2D9!important;
+  border-radius: 25px;
+  margin-top: 55px;
+}
+
+.grid-heading h2 {
+  text-align: center;
+  margin-top: 40px;
+  font-weight: 700;
+  font-size:42px;
+}
+
+.grid1 iframe {
+  width: 100%;
+}
+.grid1 {
+  width: 22%;
+  margin-bottom: 6rem;
+  box-shadow: 0px 109px 68px rgb(91 105 132 / 5%), 0px 39.7868px 24.8211px rgb(91 105 132 / 3%), 0px 19.3158px 12.0502px rgb(91 105 132 / 3%), 0px 9.46894px 5.90723px rgb(91 105 132 / 2%), 0px 3.74403px 2.33573px rgb(91 105 132 / 2%);
+  border-radius: 15px;
+}
+
+.grid1 iframe {
+  width: 100%;
+}
+
+.grid-flx {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 51px;
+}
+
+.grid1 iframe {
+  width: 100%;
+  border-radius: 15px 15px 0px 0;
+}
+
+.grid1 img {
+  width: 40px;
+  position: relative;
+  top: 0;
+  margin-right: 6px;
+}
+
+.grid1 h2 {
+    font-size: 17px;
+    margin: 0;
+}
+
+.grid1 h2 {
+  font-size: 15px;
+}
+.grid1 strong {
+  font-size: 19px;
+}
+
+.grid1 h6 {
+  font-size: 19px;
+  margin-top: 6px;
+  padding: 0 20px;
+}
+
+.grid1 p {
+  font-size: 14px;
+  color: #5C5C62;
+  padding: 0 20px;
+  margin:0;
+}
+
+.grid1 .top_box1 {
+  display: flex;
+  align-items: center;
+  padding: 0 15px;
+  margin-bottom: 7px;
+  margin-top: 5px;
+}
+
+.grid1 iframe {
+  width: 100%;
+  border-radius: 15px 15px 0px 0;
+  height: 129px;
+  margin-bottom: 7px;
+}
+
+footer {
+  background: #F7F7F7;
+  border: 1px solid #D2D2D9;
+  padding: 60px 0px;
+}
+footer ul{
+
+  padding: 0;
+}
+footer li{
+list-style: none;
+  margin: 0;
+
+}
+
+footer li {
+  font-size: 20px;
+  margin-bottom: 11px;
+  font-weight: 600;
+}
+
+footer li a {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  text-decoration: none;
+  color: #000;
+}
+
+footer img {
+  width: 25px;
+  object-fit: contain;
+  margin-right: 13px;
+}
+
+footer p {
+margin:0;
+
+}
+
+footer {
+  margin-top: 7rem;
+}
+
+.grid_box {
+  padding-top: 40px;
+}
+
+
+@media (max-width:798px){
+
+  .grid1 {
+    width: 47%;
+    margin-bottom: 3rem;
+  }
+
+  .top_box1 {
+    
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+footer {
+  margin-top: 4rem;
+}
+}
+
+@media(max-width:576px){
+
+.grid1 {
+    width: 100%;
+}
+.grid_box {
+  padding-top: 0;
+}
+
+.top_box {
+  display: flex;
+  justify-content: space-between;
+  background: #FFFFFF;
+  border: 1px
+solid #D2D2D9;
+  padding: 25px 25px;
+
+  margin: 0;
+
+}
+
+.top_box1 {
+  width: 100%;
+ 
+}
+
+.logo {
+  width: 60px;
+  position: relative;
+  top: 0;
+}
+.header a.navbar-brand {
+  font-size: 18px;
+  font-weight: 700;
+  margin: 0;
+}
+.page-width {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0px 17px;
+}
+.login_btn button {
+  border: 1.5px solid #D2D2D9;
+  box-sizing: border-box;
+  box-shadow: 0px 51px 53px rgb(91 105 132 / 13%), 0px 16.1454px 11.8382px rgb(91 105 132 / 8%), 0px 6.90592px 3.52455px rgb(91 105 132 / 5%);
+  border-radius: 7px;
+  padding: 7px 24px;
+  font-weight: 500;
+}
+
+.top_box1 img {
+
+  margin-right: 16px;
+}
+.top_box1 h2 {
+  font-size: 23px;
+  margin: 0;
+}
+}
